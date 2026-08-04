@@ -135,19 +135,19 @@ tableau-sales-performance-dashboard/
 
 ### Executive Overview
 
-*Add Screenshot Here*
+![Executive Overview](screenshots/executive-overview.png)
 
 ---
 
 ### Regional & Category Performance
 
-*Add Screenshot Here*
+![Regional & Category Performance](screenshots/regional-category-performance.png)
 
 ---
 
 ### Customer Profitability
 
-*Add Screenshot Here*
+![Customer Profitability](screenshots/customer-profitability.png)
 
 ---
 
