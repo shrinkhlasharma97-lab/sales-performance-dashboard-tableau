@@ -81,7 +81,7 @@ Provides time-based performance analysis including:
 - Sales vs Profit Comparison
 - Time-based Performance Monitoring
 
----
+  ---
 
 ## Features
 
@@ -147,11 +147,10 @@ tableau-sales-performance-dashboard/
 │
 ├── README.md
 ├── Sales_Performance_Dashboard_Shrinkhla_Sharma.twbx
-│
-└── screenshots/
-    ├── executive-overview.png
-    ├── regional-category-performance.png
-    └── customer-profitability.png
+├── executive-overview.png
+├── regional-category-performance.png
+├── customer-profitability.png
+└── sales-and-profit-trends.png
 ```
 
 ---
@@ -173,6 +172,13 @@ tableau-sales-performance-dashboard/
 ### Customer Profitability
 
 ![Customer Profitability](customer-profitability.png)
+
+---
+
+### Sales & Profit Trends 
+
+![Sales & Profit Trends](sales-and-profit-trends.png)
+
 ---
 
 ## Business Insights
