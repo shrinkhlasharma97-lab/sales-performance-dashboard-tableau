@@ -71,6 +71,18 @@ Includes:
 
 ---
 
+### Sales & Profit Trends 
+
+Provides time-based performance analysis including:
+
+- Monthly Sales Trend
+- Monthly Profit Trend
+- Quarterly Sales Analysis
+- Sales vs Profit Comparison
+- Time-based Performance Monitoring
+
+---
+
 ## Features
 
 - Interactive dashboards
@@ -83,6 +95,10 @@ Includes:
 - Regional performance insights
 - Customer profitability analysis
 - Product performance analysis
+- Time-based trend analysis
+- Geographic performance analysis
+- Customer segmentation
+- State-wise performance monitoring
 
 ---
 
@@ -98,6 +114,10 @@ Includes:
 - Line Charts
 - KPI Cards
 - Data Visualization
+- Dashboard Containers
+- Interactive Filters
+- Color Legends
+- Sorting
 
 ---
 
@@ -112,6 +132,11 @@ Includes:
 - Profitability Analysis
 - Executive Reporting
 - Interactive Dashboard Development
+- Dashboard Storytelling
+- Trend Analysis
+- Geographic Analysis
+- Customer Segmentation
+- Data Exploration
 
 ---
 
@@ -152,7 +177,7 @@ tableau-sales-performance-dashboard/
 
 ## Business Insights
 
-Some examples of insights that can be derived from this dashboard:
+This dashboard enables users to:
 
 - Identify high-performing regions.
 - Detect low-profit products.
@@ -161,6 +186,10 @@ Some examples of insights that can be derived from this dashboard:
 - Compare category performance.
 - Discover profitable customer segments.
 - Monitor business KPIs in one place.
+- Identify top and bottom performing states.
+- Compare sales and profit across quarters.
+- Monitor monthly business performance.
+- Identify high-value customers and cities.
 
 ---
 
